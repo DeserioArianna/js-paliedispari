@@ -11,9 +11,9 @@ function pariDispari(numeroUtente) {
 
     // Controlla se il numero dell'utente è pari o dispari
     if (somma % 2 === 0) {
-        console.log(`${numeroUtente} è pari`);
+        console.log(`${somma} è pari`);
     } else {
-        console.log(`${numeroUtente} è dispari`)
+        console.log(`${somma} è dispari`)
     }
 
     // Restituisce i numeri generati come oggetto
